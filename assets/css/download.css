@@ -1,0 +1,18 @@
+
+.page-content {
+  display: flex;
+  padding: 30px;
+
+}
+.support {
+  padding-top: 50px;
+}
+
+.disabled {
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
+.title {
+  font-size: 20px;
+}
